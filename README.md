@@ -8,16 +8,16 @@
 
 ## 🛠️ Experience
 
-**Robotics Engineer — Eigen Automation (Innfidects Software Development & Marketing Pvt Ltd)** · Oct 2026 – Present
+**Robotics Engineer — Eigen Automation (Innfidects Software Development & Marketing Pvt Ltd)** · Oct 2026 – Present  
 Robotic-arm manipulation, motion planning and industrial automation with ROS 2, MoveIt 2 and NVIDIA Isaac Sim.
 
-**Senior Research Fellow — TiHAN, IIT Hyderabad** · Aug 2025 – Oct 2026
+**Senior Research Fellow — TiHAN, IIT Hyderabad** · Aug 2025 – Oct 2026  
 Led the NLCIL boiler-inspection drone project: GPS-denied indoor UAV navigation with Livox MID-360 LiDAR + FAST-LIO on PX4 + ROS 2, validated up to 12 m indoors and 25 m altitude; LiDAR–camera fusion for 3D localization (0.015 m MAE).
 
-**Junior Research Fellow — TiHAN, IIT Hyderabad** · Aug 2023 – Aug 2025
+**Junior Research Fellow — TiHAN, IIT Hyderabad** · Aug 2023 – Aug 2025  
 UAV–UGV multi-agent mission planning, leader–follower multi-drone coordination, thermal/RGB inspection drones, and heavy-payload custom drones (1–150 kg).
 
-**Embedded C Engineer Intern — KPIT Technologies** · Jan 2023 – Apr 2023
+**Embedded C Engineer Intern — KPIT Technologies** · Jan 2023 – Apr 2023  
 Embedded software validation, CAN and AUTOSAR.
 
 ---
@@ -44,11 +44,11 @@ Embedded software validation, CAN and AUTOSAR.
 
 ## 🧰 Skills
 
-**Robotics & Autonomy:** ROS 2 · ROS · PX4 · ArduPilot · MAVLink · MoveIt 2 · Motion Planning · Autonomous Navigation · Obstacle Avoidance
-**Perception & SLAM:** FAST-LIO · Visual SLAM · RTAB-Map · LiDAR Odometry · LiDAR–Camera Fusion · Sensor Fusion · RTK-GPS
-**Simulation:** NVIDIA Isaac Sim · Gazebo · PX4 SITL · RViz 2 · AirSim
-**Vision & ML:** OpenCV · YOLO · PyTorch · TensorFlow · TensorRT
-**Hardware:** NVIDIA Jetson Nano / NX / Orin / AGX · Raspberry Pi · Livox MID-360 · Depth cameras
+**Robotics & Autonomy:** ROS 2 · ROS · PX4 · ArduPilot · MAVLink · MoveIt 2 · Motion Planning · Autonomous Navigation · Obstacle Avoidance  
+**Perception & SLAM:** FAST-LIO · Visual SLAM · RTAB-Map · LiDAR Odometry · LiDAR–Camera Fusion · Sensor Fusion · RTK-GPS  
+**Simulation:** NVIDIA Isaac Sim · Gazebo · PX4 SITL · RViz 2 · AirSim  
+**Vision & ML:** OpenCV · YOLO · PyTorch · TensorFlow · TensorRT  
+**Hardware:** NVIDIA Jetson Nano / NX / Orin / AGX · Raspberry Pi · Livox MID-360 · Depth cameras  
 **Languages:** Python · C++ · C · JavaScript
 
 ---
